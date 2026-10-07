@@ -1,24 +1,67 @@
+# Hi, I'm Nihar Sajal 👋
 
+### Frontend Developer | JavaScript • React.js • Next.js
 
-# Hi, I'm Nihar 👋
-### Front End Developer in the Making | JavaScript • React • Next.js
+📍 Habiganj, Bangladesh  
+📧 nihar.sajal@gmail.com
 
-## About Me
-I'm a final-year Business Management student from Habiganj, Bangladesh. I've been building websites for clients as a freelancer, and now I'm going deeper into front end development with JavaScript, React and Next.js. I love turning designs into fast, clean and responsive interfaces, and my goal is to work remotely with international teams.
+I’m a frontend developer focused on building clean, responsive, and user-friendly web experiences. Currently, I’m strengthening my JavaScript fundamentals and learning React.js and Next.js by building practical projects and experimenting with modern frontend technologies.
 
-## What I'm Doing Now
-- 🌱 Learning React JS and Next.js
-- 🔭 Building my personal portfolio website with Next.js
-- 📚 Strengthening my JavaScript fundamentals (ES6+, arrays, async/await)
-- 🎯 Open to internships and remote junior front end roles
+---
 
-## Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,figma" />
+## 🚀 Currently
 
-## Connect With Me
-[Fiverr](https://www.fiverr.com/nihar_sajal) | [LinkedIn](আপনার-লিংক) | [Email](mailto:আপনার-email)
+- 🔭 Building projects with JavaScript and React.js
+- 🌱 Learning React.js and Next.js
+- 🧠 Improving my JavaScript fundamentals and problem-solving skills
+- 💻 Practicing by building real-world frontend projects
+- 📚 Exploring modern frontend development workflows
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/niharsajal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/niharsajal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nihar.sajal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharsajal&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharsajal&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌍 Country Explorer
+A React.js application for exploring countries with information such as flags, country details, and visited/unvisited states.
+
+**Tech:** JavaScript • React.js • API
+
+### 🚧 More Projects Coming Soon
+
+I’m continuously building and improving my frontend projects as I learn JavaScript, React.js, and Next.js.
