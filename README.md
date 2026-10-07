@@ -1,4 +1,4 @@
-![Banner](ব্যানার-ইমেজের-লিংক)
+
 
 # Hi, I'm Nihar 👋
 ### Front End Developer in the Making | JavaScript • React • Next.js
